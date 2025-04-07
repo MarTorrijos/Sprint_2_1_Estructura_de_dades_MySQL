@@ -6,6 +6,7 @@ Ejercicios pensados para practicar la creación de bases de datos MySQL.
 ### Tecnologias usadas
 
 - phpMyAdmin
+- SQL
 
 ***
 
